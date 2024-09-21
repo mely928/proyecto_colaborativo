@@ -1,0 +1,10 @@
+.row [class^="col"]{
+    border: violet 0.1em solid;
+}
+
+.text-end{
+    font-size: medium;
+    display: flex;
+    float: right;
+    margin-bottom: 20px;
+}
